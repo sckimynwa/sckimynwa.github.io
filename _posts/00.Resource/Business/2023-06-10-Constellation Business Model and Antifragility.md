@@ -8,7 +8,7 @@ title: "Constellation Business Model and Antifragility"
 date: "2023-06-10"  
 github_title: "2023-06-10-Constellation Business Model and Antifragility"  
 image:  
-  path: assets/img/Pasted%20image%2020230610152042.png  
+  path: /assets/img/Pasted%20image%2020230610152042.png  
 ---  
   
 ![center | 500](../../../assets/img/Pasted image 20230610152042.png)  
