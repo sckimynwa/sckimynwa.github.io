@@ -11,7 +11,8 @@ image:
   path: /assets/img/Pasted%20image%2020230610152042.png  
 ---  
   
-![center | 500](../../../assets/img/Pasted image 20230610152042.png)  
+  
+![center](../../../assets/img/Pasted image 20230610152042.png)  
   
 .  
   
