@@ -1,8 +1,8 @@
 ---  
 share: true  
 toc: true  
-categories: []  
-tags: []  
+categories: [Thoughts]  
+tags: [antifragile, budiness, constellation, csi]  
 layout: post  
 title: "Constellation Business Model and Antifragility"  
 date: "2023-06-10"  
