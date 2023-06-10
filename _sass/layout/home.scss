@@ -147,14 +147,15 @@
 
     .card {
       .preview-img {
-        width: 20rem;
-        height: 11.55rem; // can hold 2 lines each for title and content
+        width: 11.55rem;
+        height: 8rem; // can hold 2 lines each for title and content
+        opacity: 0.5;
       }
 
       .card-body {
-        min-height: 10.75rem;
+        min-height: 5rem;
         width: 60%;
-        padding: 1.75rem 1.75rem 1.25rem 1.75rem;
+        padding: 2rem 2rem 2rem 2rem;
 
         .card-text {
           display: inherit !important;
@@ -163,7 +164,7 @@
         .post-meta {
           i {
             &:not(:first-child) {
-              margin-left: 1.75rem;
+              margin-left: 1rem;
             }
           }
         }
