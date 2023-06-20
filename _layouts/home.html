@@ -73,12 +73,12 @@ refactor: true
             {{ post.title }}
           </h1>
 
-          <!-- <div class="card-text post-content mt-0 mb-2">
+          <div class="card-text post-content mt-0 mb-2">
             <p>
               {% include no-linenos.html content=post.content %}
               {{ content | markdownify | strip_html | truncate: 200 | escape }}
             </p>
-          </div> -->
+          </div>
 
           <div class="post-meta flex-grow-1 d-flex align-items-end">
             <div class="me-auto">
