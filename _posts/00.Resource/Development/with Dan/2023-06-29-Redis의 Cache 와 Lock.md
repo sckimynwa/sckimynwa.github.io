@@ -8,7 +8,7 @@ title: "Redis의 Cache 와 Lock"
 date: "2023-06-29"  
 github_title: "2023-06-29-Redis의 Cache 와 Lock"  
 image:  
-  path: /assets/img/with_dan.png  
+  path: /assets/img/Pasted%20image%2020230630083658.png  
 ---  
   
 ## TL; DR  
