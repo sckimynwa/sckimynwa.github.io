@@ -11,6 +11,8 @@ image:
   path: /assets/img/Pasted%20image%2020230702094411.png  
 ---  
   
+![](../../../../../assets/img/Pasted image 20230702094411.png)  
+  
 ## TL; DR  
 QANDA Adaptive Content Frontend Part에서 주간 회고 시간에 각자 읽고 싶었지만 시간이 없어서 읽지 못했던 아티클들을 모아서 읽고 서로 공유한 내용들을 정리합니다.   
   
@@ -21,12 +23,13 @@ QANDA Adaptive Content Frontend Part에서 주간 회고 시간에 각자 읽고
 ### Context Free Grammar  
 지난학기에 Database 수업을 들으면서 SQL Parser를 구현한 적이 있었다. 다음과 같은 SQL 문법을 DBMS는 어떻게 처리하는가?에 대해서 EBNF(Extended Backus-Naur Form)의 문법을 사용해서 언어의 문법을 기술하고 이를 [Lark](https://github.com/lark-parser/lark/blob/master/docs/grammar.md)라는 Python Parsing Toolkit을 사용해서 파싱했던 기억이 난다.  
   
-```SQL  
+```sql  
 SELECT id, name, grade FROM student LEFT JOIN student_grade;  
 ```  
   
 EBNF는 Context-Free Grammar이기 때문에 특정 언어에 종속되지 않으며 대략적으로 다음과 같이 생겼다.  
-```bnf  
+  
+```sql  
 // SELECT  
 select_query : SELECT select_list table_expression  
 select_list : "*"  
@@ -52,6 +55,7 @@ comparable_value : INT | STR | DATE
 null_predicate : [table_name "."] column_name null_operation  
 null_operation : IS [NOT] NULL  
 ```  
+  
   
 글을 읽으면서 흥미로웠던 점은.CSS나 JS의 경우 이러한 BNF의 형태를 사용해서 파싱을 구현할 수 있으나 HTML5는 이러한 Context-Free Grammar를 사용해서 파싱할 수 없다는 점이었다. 이유는 HTML이 굉장히 "너그러운" 성질을 갖고 있기 때문이다. 암묵적으로 태그에 대한 생략이 가능하고, 잘못된 태그를 입력해도 오류를 일으키지 않고 적절히 추론해서 보여준다. 따라서 기존의 BNF 형태의 파서를 사용할 수 없고, 완전히 새로운 형태의 파서를 직접 구현해야 한다는 점이 흥미로웠다.  
 >Unfortunately all the conventional parser topics do not apply to HTML (I didn't bring them up just for fun - they will be used in parsing CSS and JavaScript). HTML cannot easily be defined by a context free grammar that parsers need.  
@@ -104,7 +108,7 @@ class Object {
 }  
 ```  
   
-- 사용하다 보면 Object.keys의 key를 string이 아닌 실제 Object의 key 타입으로 추론해서 사용하고 싶을 때가 있다. (위의 예제에서는 'hostName' | 'port'). 어차피 Option이라는 인터페이스를 알고 있을텐데 왜 굳이 해당 인터페이스의 key값이 아니라 string으로 정의해버리는걸까?  
+사용하다 보면 Object.keys의 key를 string이 아닌 실제 Object의 key 타입으로 추론해서 사용하고 싶을 때가 있다. (위의 예제에서는 'hostName' | 'port'). 어차피 Option이라는 인터페이스를 알고 있을텐데 왜 굳이 해당 인터페이스의 key값이 아니라 string으로 정의해버리는걸까?  
   
 A. 이는 Typescript의 Structural Typing 때문에 그렇다  
 > TypeScript의 타입 호환성은 구조적 서브 타이핑(subtyping)을 기반으로 합니다. 구조적 타이핑이란 오직 멤버만으로 타입을 관계시키는 방식입니다. 명목적 타이핑(nominal typing) 과는 대조적입니다. 다음 코드를 살펴보겠습니다:  
