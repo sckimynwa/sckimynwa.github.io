@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sckimynwa.github.io/sitemap.xml
