@@ -11,8 +11,6 @@ image:
   path: /assets/img/Pasted%20image%2020230702094411.png  
 ---  
   
-![](../../../../../assets/img/Pasted image 20230702094411.png)  
-  
 ## TL; DR  
 QANDA Adaptive Content Frontend Part에서 주간 회고 시간에 각자 읽고 싶었지만 시간이 없어서 읽지 못했던 아티클들을 모아서 읽고 서로 공유한 내용들을 정리합니다.   
   
