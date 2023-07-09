@@ -14,7 +14,7 @@ QANDA Adaptive Content Frontend Part에서 주간 회고 시간에 각자 읽고
   
 ## Typescript as a Set  
   
-![](Pasted%20image%2020230709091639.png)  
+![center](Pasted%20image%2020230709091639.png)  
   
 타입스크립트는 튜링 완전하며, 타입 시간에 평가(evaluate)되는 코드이다. (여기서 타입 시간이란, IDE에서 타이핑하는 시간을 의미한다. 즉 IDE를 통해서 Read-Eval-Print-Loop을 수행한다)  
   
