@@ -14,11 +14,12 @@ QANDA Adaptive Content Frontend Part에서 주간 회고 시간에 각자 읽고
   
 ## Typescript as a Set  
   
-![center](Pasted%20image%2020230709091639.png)  
+![center](../../../../../assets/img/Pasted image 20230709091639.png)  
   
 타입스크립트는 튜링 완전하며, 타입 시간에 평가(evaluate)되는 코드이다. (여기서 타입 시간이란, IDE에서 타이핑하는 시간을 의미한다. 즉 IDE를 통해서 Read-Eval-Print-Loop을 수행한다)  
   
 Typescript에서 공리계(Axiom)에 속하는 가장 중요한 공리 중 하나는 *타입은 집합이다* 라는 것이다. 이 공리를 이해해야 다음과 같은 예제를 혼동하지 않고 타이핑할 수 있다.  
+  
   
 ```typescript  
 type A = { a: number }  
@@ -37,7 +38,7 @@ const d2: D = { a: 1 } // Type Error!
   
 C의 경우, A와 B의 합집합으로 정의되었으므로 a를 가지고 있거나 b를 가지고 있으면 된다. 따라서 c1, c2, c3 모두 valid하다. 반면, D의 경우 A와 B의 교집합으로 정의되었으므로 a를 가지고 있으면서 b를 가지고 있는 집합으로 정의된다. 따라서 a만 가지고 있는 d2는 type error가 발생한다.  
   
-![](Pasted%20image%2020230709092643.png)  
+![](../../../../../assets/img/Pasted image 20230709092643.png)  
   
 한편, unknown은 전체 집합을 의미하며, never는 공집합을 의미한다. 따라서 집합의 관점으로 해석해보면 unknown과 교집합하는 모든 집합은 자기 자신이 되며, never와 합집합하는 모든 집합도 자기 자신이 된다. 아래는 이를 사용해서 타이핑한 예시가 되겠다.  
   
@@ -50,6 +51,7 @@ I = unknown // input only
   
 export type OneOf<O1, O2, O3 = never, O4 = never> = O1 | O2 | O3 | O4;  
 ```  
+  
   
 ### Chain of Thoughts  
 - Infer Typing  
@@ -105,7 +107,7 @@ export type QueryFunction<T = unknown, TQueryKey extends QueryKey = QueryKey> = 
   
 ### Parsing & Compilation  
   
-![](Pasted%20image%2020230709102317.png)  
+![](../../../../../assets/img/Pasted image 20230709102317.png)  
   
 SVG를 React Component를 사용해서 렌더링하겠다는 것은 `svgr` 같은 번들러를 사용해서 JS Bundle에 이를 포함시키겠다는 것을 의미한다. 즉, 브라우저가 바로 html 태그를 해석하는 것 보다 더 많은 절차 (파싱, 컴파일)를 밟아야 한다는 것을 의미하며, 이는 당연히 이미지를 바로 렌더링하는것 보다 비싸다.  
   
