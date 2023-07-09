@@ -7,8 +7,6 @@ layout: post
 title: "Browser rendering, Typescript structural typing"  
 date: "2023-07-02"  
 github_title: "2023-07-02-Browser rendering, Typescript structural typing"  
-image:  
-  path: /assets/img/Pasted%20image%2020230702094411.png  
 ---  
   
 ## TL; DR  
