@@ -56,4 +56,4 @@ The analogy of GPT4 and other generative AI models to a "light bulb" is impressi
   
 ## Reference  
   
-- https://www.thecipherbrief.com/column_article/forget-the-ai-race-lets-invest-in-a-data-grid-for-ai  
+- [Original Article](https://www.thecipherbrief.com/column_article/forget-the-ai-race-lets-invest-in-a-data-grid-for-ai)  
