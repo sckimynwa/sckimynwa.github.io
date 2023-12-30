@@ -9,8 +9,6 @@ date: "2023-06-19"
 github_title: "2023-06-19-Let's Verify Step by Step"  
 ---  
   
-## Quotes  
-  
 In recent years, large language models have greatly improved in their ability to perform complex multi-step reasoning. However, even state-of-the-art models still regularly produce logical mistakes.  
   
 We conduct our own investigation, finding that process supervision significantly outperforms outcome supervision for training models to solve problems from the challenging MATH dataset  
