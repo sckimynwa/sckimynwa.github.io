@@ -1,2 +1,58 @@
 // Import Core Clean Blog SCSS
 @import "../assets/vendor/startbootstrap-clean-blog/scss/styles.scss";
+
+@font-face {
+  font-family: "MonaspaceArgon";
+  src: url("../assets/fonts/MonaspaceArgon-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MonaspaceArgon";
+  src: url("../assets/fonts/MonaspaceArgon-Bold.otf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MonaspaceArgon";
+  src: url("../assets/fonts/MonaspaceArgon-Light.otf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MonaspaceArgon";
+  src: url("../assets/fonts/MonaspaceArgon-Medium.otf");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url("../assets/fonts/MonaspaceNeon-Regular.otf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url("../assets/fonts/MonaspaceNeon-Bold.otf");
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url("../assets/fonts/MonaspaceNeon-Light.otf");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "MonaspaceNeon";
+  src: url("../assets/fonts/MonaspaceNeon-Medium.otf");
+  font-weight: 500;
+  font-style: normal;
+}
