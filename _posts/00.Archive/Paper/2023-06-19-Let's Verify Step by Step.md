@@ -11,8 +11,7 @@ date: 2023-06-19
 github_title: 2023-06-19-Let's Verify Step by Step
 background: /assets/img/background.jpg
 ---
-![](../../../assets/img/background.jpg)
-## Quotes
+
 
 In recent years, large language models have greatly improved in their ability to perform complex multi-step reasoning. However, even state-of-the-art models still regularly produce logical mistakes.
 
