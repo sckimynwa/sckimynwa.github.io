@@ -1,4 +1,4 @@
-## Tre of Thoughts
+## Tree of Thoughts
 
 I'm a passionate thinker who loves to reflect on my tree of thoughts. I find great joy in reading books 📚, exploring various genres and expanding my horizons.
 
