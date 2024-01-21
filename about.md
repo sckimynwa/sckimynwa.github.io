@@ -2,12 +2,12 @@
 layout: page
 title: About Me
 description: This is what I do.
-background: '/img/bg-about.png'
+background: "/img/bg-about.png"
 ---
 
-## Chain of Thoughts
+## Tree of Thoughts
 
-I'm a passionate thinker who loves to reflect on my chain of thoughts. I find great joy in reading books 📚, exploring various genres and expanding my horizons.
+I'm a passionate thinker who loves to reflect on my tree of thoughts. I find great joy in reading books 📚, exploring various genres and expanding my horizons.
 
 ### 🖥️ Technology & Problem Solving
 
