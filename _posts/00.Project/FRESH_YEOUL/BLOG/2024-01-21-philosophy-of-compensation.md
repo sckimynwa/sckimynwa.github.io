@@ -5,7 +5,7 @@ tags:
 layout: post
 title: Philosophy Of Compensation
 date: 2024-01-21
-github_title: 2024-01-21-Untitled
+github_title: 2024-01-21-philosophy-of-compensation
 img_path: /assets/img/
 background: /assets/img/Pasted%20image%2020240121101218.png
 ---
