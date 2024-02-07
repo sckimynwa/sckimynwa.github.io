@@ -5,7 +5,7 @@ tags:
 layout: post
 title: 패리 뮤추얼 시스템
 date: 2024-01-28
-github_title: 2024-01-28-pari-mutual-system
+github_title: 2024-01-28-pari-mutuel-system
 img_path: /assets/img/
 background:
 ---
