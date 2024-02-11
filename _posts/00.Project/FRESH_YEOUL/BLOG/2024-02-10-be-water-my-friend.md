@@ -5,7 +5,7 @@ tags:
 layout: post
 title: Be Water, My Friend
 date: 2024-02-10
-github_title: be-water-my-friend
+github_title: 2024-02-10-be-water-my-friend
 img_path: /assets/img/
 background:
 ---
