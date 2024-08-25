@@ -4,7 +4,7 @@ toc: true
 tags: 
 layout: post
 title: Fixed Supply Currency System
-date: 2024-08-26
+date: 2024-08-25
 github_title: 2024-08-26-fixed-supply-currency-system
 img_path: /assets/img/
 background:
