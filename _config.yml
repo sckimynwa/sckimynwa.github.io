@@ -1,24 +1,24 @@
-title:              Yeoul
-email:              tsb03672@gmail.com
-description:        Yeoul's Tree of Thoughts
-author:             sckimynwa
-baseurl:            ""
-url:                "https://sckimynwa.github.io"
+title: Yeoul
+email: tsb03672@gmail.com
+description: Be aware of the platonic fold.
+author: sckimynwa
+baseurl: ""
+url: "https://sckimynwa.github.io"
 
 # Social Profiles
-twitter_username:   sckimynwa
-github_username:    sckimynwa
-facebook_username:  sangchul.kim.71
+twitter_username: sckimynwa
+github_username: sckimynwa
+facebook_username: sangchul.kim.71
 instagram_username: sckimynwa
-linkedin_username:  sckimynwa
+linkedin_username: sckimynwa
 
 # Add your google-analytics ID here to activate google analytics
-google_analytics:   G-W00GDTFB5Q # out your google-analytics code
+google_analytics: G-W00GDTFB5Q # out your google-analytics code
 
 # Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+markdown: kramdown
+paginate: 10
+paginate_path: "/posts/page:num/"
 plugins:
   - jekyll-feed
   - jekyll-paginate
