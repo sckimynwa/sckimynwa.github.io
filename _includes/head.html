@@ -17,6 +17,10 @@
   <meta property="og:image" content="https://blog.yeoul.io/img/bg-about.png">
   <meta name="author" content="Yeoul Kim">
   <meta name="twitter:image" content="https://blog.yeoul.io/img/bg-about.png">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="Yeoul">
+  <meta name="twitter:title" content="{{ page.title | escape }}">
+  <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet'
     type='text/css'>
