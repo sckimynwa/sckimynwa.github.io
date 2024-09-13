@@ -3,9 +3,9 @@ share: true
 toc: true
 tags: 
 layout: post
-title: About Entrophy
+title: About Entropy
 date: 2024-09-12
-github_title: 2024-09-12-about-entrophy
+github_title: 2024-09-12-about-entropy
 img_path: /assets/img/
 background:
 ---
