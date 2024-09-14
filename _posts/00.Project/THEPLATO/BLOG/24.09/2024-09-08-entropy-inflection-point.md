@@ -7,7 +7,7 @@ title: Entropy Inflection Point of Evolution
 date: 2024-09-08
 github_title: 2024-09-08-entropy-inflection-point
 img_path: /assets/img/
-background: /assets/img/Pasted%20image%20240914103652.png
+background: /assets/img/Pasted%20image%2020240914103652.png
 ---
 While a widely accepted general theory of intelligence does not exist yet, the role of intelligence in all systems and domains is to reduce information entropy and to essentialize this in a form that enables further entropy reduction.
 
