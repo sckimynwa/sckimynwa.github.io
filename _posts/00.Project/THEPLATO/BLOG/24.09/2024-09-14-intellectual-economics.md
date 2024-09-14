@@ -3,7 +3,7 @@ share: true
 toc: true
 tags: 
 layout: post
-title: Untitled
+title: Intellectual Economics
 date: 2024-09-14
 github_title: 2024-09-14-intellectual-economics
 img_path: /assets/img/
