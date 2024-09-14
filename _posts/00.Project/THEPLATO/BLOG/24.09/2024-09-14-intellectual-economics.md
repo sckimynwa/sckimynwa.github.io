@@ -7,7 +7,7 @@ title: Intellectual Economics
 date: 2024-09-14
 github_title: 2024-09-14-intellectual-economics
 img_path: /assets/img/
-background: /assets/img/Pasted%20image%20240914111353.png
+background: /assets/img/Pasted%20image%2020240914111353.png
 ---
 Michelangelo described his sculptural process as "discovering the form already existing within the marble and revealing it." He possessed a unique perspective, viewing marble not as mere stone, but as a vessel containing latent artwork. This philosophy is evident in works like David and Pietà, where he approached the sculpting process as if the statue were unveiling itself as he chipped away at the marble.
 
