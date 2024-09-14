@@ -18,8 +18,8 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="Yeoul">
   <meta property="og:type" content="article">
-  <meta property="og:image" content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ '/img/bg-about.png' | absolute_url }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ '/img/bg-about.png' | absolute_url }}{% endif %}">
+  <meta property="og:image" content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ 'https://blog.yeoul.io/img/bg-about.png' | absolute_url }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ 'https://blog.yeoul.io/img/bg-about.png' | absolute_url }}{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@sckimynwa">
   <meta name="twitter:title" content="{{ page.title | escape }}">
