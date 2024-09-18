@@ -4,8 +4,8 @@ toc: true
 tags: 
 layout: post
 title: Parrondo's Paradox
-date: 2024-09-04
-github_title: 2024-09-04-parrondo-paradox
+date: 2024-09-18
+github_title: 2024-09-18-parrondo-paradox
 img_path: /assets/img/
 background:
 ---
