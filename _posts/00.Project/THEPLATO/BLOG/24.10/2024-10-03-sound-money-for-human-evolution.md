@@ -3,7 +3,7 @@ share: true
 toc: true
 tags: 
 layout: post
-title: Untitled
+title: Sound money for Human Evolution
 date: 2024-10-03
 github_title: 2024-10-03-sound-money-for-human-evolution
 img_path: /assets/img/
