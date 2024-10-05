@@ -9,7 +9,7 @@ github_title: 2024-09-18-parrondo-paradox
 img_path: /assets/img/
 background:
 ---
-Faced with two losing games, we tend to assume the outcome is predetermined. However, in complex systems, this intuition can break down. The Parrondo's paradox illustrates this phenomenon. It states that by alternating between two individually losing games, one can achieve a winning outcome.
+Faced with two losing games, we tend to assume the outcome is predetermined. However, in complex systems, this intuition can break down. The Parrondo's paradox illustrates this phenomenon. It states that by alternating between two individually losing games, one can achieve a winning outcome.
 
 Viewing Parrondo's paradox through the lens of entropy provides interesting insights. Entropy measures a system's disorder or uncertainty. High entropy indicates numerous possible states, making prediction difficult. Low entropy suggests fewer possible states, allowing for more predictable outcomes. In Parrondo's paradox, each game represents a low-entropy state - a predictable loss. However, alternating between the games increases the system's overall entropy, opening up new possibilities and enabling emergent behavior.
 
