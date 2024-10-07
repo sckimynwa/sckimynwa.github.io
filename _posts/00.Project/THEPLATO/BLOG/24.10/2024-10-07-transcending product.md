@@ -3,7 +3,7 @@ share: true
 toc: true
 tags: 
 layout: post
-title: transcending product
+title: Transcending Product
 date: 2024-10-07
 github_title: 2024-10-07-transcending product
 img_path: /assets/img/
