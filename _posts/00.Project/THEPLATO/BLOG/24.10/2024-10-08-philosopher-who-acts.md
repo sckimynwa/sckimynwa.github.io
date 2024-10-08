@@ -9,8 +9,6 @@ github_title: 2024-10-08-philosopher-who-acts
 img_path: /assets/img/
 background:
 ---
-죄송합니다. 내용을 더 충실히 반영하여 다시 번역하겠습니다.
-
 I personally prefer being called a 'philosopher' rather than an 'engineer'. While the role of a philosopher may vary depending on the definition of philosophy, under my definition, philosophy is not any specific content but the 'activity of thinking' itself. 
 
 I believe there are two ways philosophy manifests itself: constructing ideal theories and applying them to the world, or solving existing problems in the world at a philosophical level. 
