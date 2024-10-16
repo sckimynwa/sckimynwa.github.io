@@ -4,7 +4,7 @@ toc: true
 tags: 
 layout: post
 title: thoughts on near future software
-date: 2024-10-17
+date: 2024-10-16
 github_title: 2024-10-17-thoughts-on-near-future-software
 img_path: /assets/img/
 background:
