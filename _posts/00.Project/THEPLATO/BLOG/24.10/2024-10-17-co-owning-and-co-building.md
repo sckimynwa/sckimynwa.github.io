@@ -4,8 +4,8 @@ toc: true
 tags: 
 layout: post
 title: co-owning and co-building
-date: 2024-10-17
-github_title: 2024-10-1-co-owning-and-co-building
+date: 2024-10-16
+github_title: 2024-10-17-co-owning-and-co-building
 img_path: /assets/img/
 background:
 ---
