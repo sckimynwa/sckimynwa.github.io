@@ -4,8 +4,8 @@ toc: true
 tags: 
 layout: post
 title: stop and think
-date: 2024-11-12
-github_title: 2024-11-12-stop-and-think
+date: 2024-11-11
+github_title: 2024-11-11-stop-and-think
 img_path: /assets/img/
 background: /assets/img/Pasted%20image%2020241112060730.png
 ---
