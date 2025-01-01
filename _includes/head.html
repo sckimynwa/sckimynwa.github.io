@@ -18,15 +18,12 @@
   <meta property="og:url" content="{{ page.url | absolute_url }}">
   <meta property="og:site_name" content="Yeoul">
   <meta property="og:type" content="article">
-  <meta property="og:image"
-    content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ 'https://blog.yeoul.io/img/bg-about.png' | absolute_url }}{% endif %}">
-  <meta name="twitter:image"
-    content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ 'https://blog.yeoul.io/img/bg-about.png' | absolute_url }}{% endif %}">
+  <meta property="og:image" content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ 'https://blog.yeoul.io/img/bg-about.png' | absolute_url }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.background %}{{ page.background | absolute_url }}{% else %}{{ 'https://blog.yeoul.io/img/bg-about.png' | absolute_url }}{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="@sckimynwa">
   <meta name="twitter:title" content="{{ page.title | escape }}">
-  <meta name="twitter:description"
-    content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet'
     type='text/css'>
@@ -36,7 +33,7 @@
 
   <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js" crossorigin="anonymous"></script>
 
-  <link rel="stylesheet" href="{{" /assets/main.css" | relative_url }}">
+  <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ " /feed.xml" |
     relative_url }}">
@@ -51,5 +48,4 @@
   <meta name="msapplication-TileColor" content="#da532c">
   <meta name="theme-color" content="#ffffff">
 
-  {% seo %}
 </head>
