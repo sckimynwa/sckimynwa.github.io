@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: This is what I do.
+description: full of wonder.
 background: "/img/bg-about.png"
 ---
 
