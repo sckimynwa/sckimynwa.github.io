@@ -87,4 +87,4 @@ As emphasized in Habermas's theory of communicative action, the goal is to make 
 
 This approach embodies the core of Western values. Specifically, the legitimacy of social decisions must stem from civic participation rather than from systems or authority, and decisions lacking public participation must lose their legitimacy and justification, bearing appropriate responsibility.
 
-![](../../../../Attachments/Pasted%20image%2020250102120953.png)
+![](../../../../../assets/img/Pasted%20image%2020250102120953.png)
