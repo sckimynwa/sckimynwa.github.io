@@ -4,11 +4,13 @@ toc: true
 tags: 
 layout: post
 title: western value - philosophical basics
-date: 2025-01-01
-github_title: 2025-01-01-western-value-philosophical-basics
+date: 2025-01-02
+github_title: 2025-01-02-western-value-philosophical-basics
 img_path: /assets/img/
 background: /assets/img/Pasted%20image%2020250102112612.png
 ---
+![](Pasted%20image%2020250102112612.png)
+
 The world is currently in the midst of a hegemonic war. The Trump administration, championing MAGA (Make America Great Again), will lead the United States from 2025, and it appears they are already preparing for a post-Trump era under the Vance regime. This means that the current power competition and America's transformation should be viewed not within a four-year framework, but rather through an eight-year lens. From a long-term perspective, the next two years are likely to bring significant changes in political, technological, and structural aspects. At the center of these changes lie the Department of Government Efficiency (DOGE), the AI Manhattan Project, and Palantir.
 
 Palantir is expected to play a crucial role in completely reshaping the United States over the next 3-4 years from 2025. Through collaboration with DOGE, which involves FEDSTART. Palantir is likely to contribute significantly by lending public legitimacy to the Trump administration's decision-making process. Additionally, through new operating systems like WARPSPEED, they are expected to contribute substantially to the comprehensive reform of defense and manufacturing sectors.
