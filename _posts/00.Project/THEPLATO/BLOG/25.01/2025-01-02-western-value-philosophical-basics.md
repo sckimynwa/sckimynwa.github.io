@@ -86,5 +86,3 @@ However, it is technically feasible to establish this as an aspiration and creat
 As emphasized in Habermas's theory of communicative action, the goal is to make governmental and corporate actions technically transparent and accessible to many people, thereby enabling citizens to participate meaningfully in decision-making processes where accountability is assured. In this process, decision-making will manifest not only through discussions incorporating public opinion formation but also through practical engagement in matters of direct interest, such as the provision of government software.
 
 This approach embodies the core of Western values. Specifically, the legitimacy of social decisions must stem from civic participation rather than from systems or authority, and decisions lacking public participation must lose their legitimacy and justification, bearing appropriate responsibility.
-
-![](../../../../../assets/img/Pasted%20image%2020250102120953.png)
