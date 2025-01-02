@@ -4,8 +4,8 @@ toc: true
 tags: 
 layout: post
 title: western value - philosophical basics
-date: 2025-01-02
-github_title: 2025-01-02-western-value-philosophical-basics
+date: 2025-01-01
+github_title: 2025-01-01-western-value-philosophical-basics
 img_path: /assets/img/
 background: /assets/img/Pasted%20image%2020250102112612.png
 ---
